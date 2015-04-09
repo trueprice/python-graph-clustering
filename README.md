@@ -19,10 +19,10 @@ algorithms:
 The code is free for academic use. If you find this project useful, please
 consider citing
   
-  True Price, Francisco I Peña III, Young-Rae Cho. "Survey: Enhancing
-  protein complex prediction in PPI networks with GO similarity weighting."
-  Interdisciplinary Sciences: Computational Life Sciences, 2013.
-  [[pdf]](http://cs.unc.edu/~jtprice/papers/price_pena_cho_2013.pdf)
+	True Price, Francisco I Peña III, Young-Rae Cho. "Survey: Enhancing
+	protein complex prediction in PPI networks with GO similarity weighting."
+	Interdisciplinary Sciences: Computational Life Sciences, 2013.
+	[[pdf]](http://cs.unc.edu/~jtprice/papers/price_pena_cho_2013.pdf)
 
 
 Requirements
@@ -38,12 +38,12 @@ Usage
 
 All files have been tested to run in Python 2.7. Simply run
 
-  python <script.py> <graph file>
+	python <script.py> <graph file>
 
 where <graph file> is defines an (unweighted) graph, with a separate entry on
 each line defining an edge between two nodes in the graph, i.e.:
 
-  <node 1> <node 2> [edge weight]
+	<node 1> <node 2> [edge weight]
 
 The edge weight entry is optional for the unweighted methods. Example datasets
 for PPI networks (weighted with similarity metrics on Gene Ontology entries) are
