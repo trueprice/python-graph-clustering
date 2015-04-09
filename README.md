@@ -22,14 +22,14 @@ consider citing
   True Price, Francisco I Peña III, Young-Rae Cho. "Survey: Enhancing
   protein complex prediction in PPI networks with GO similarity weighting."
   Interdisciplinary Sciences: Computational Life Sciences, 2013.
-  [[pdf]]("http://cs.unc.edu/~jtprice/papers/price_pena_cho_2013.pdf")
+  [[pdf]](http://cs.unc.edu/~jtprice/papers/price_pena_cho_2013.pdf)
 
 
 Requirements
 ============
 
-[NumPy]("http://www.numpy.org") and [SciPy]("http://www.scipy.org").
-[networkx]("https://networkx.github.io/") is also required for the clique
+[NumPy](http://www.numpy.org) and [SciPy](http://www.scipy.org).
+[networkx](https://networkx.github.io/) is also required for the clique
 percolation methods.
 
 
