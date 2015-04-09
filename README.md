@@ -19,10 +19,10 @@ algorithms:
 The code is free for academic use. If you find this project useful, please
 consider citing
   
-	True Price, Francisco I Peña III, Young-Rae Cho. "Survey: Enhancing
-	protein complex prediction in PPI networks with GO similarity weighting."
-	Interdisciplinary Sciences: Computational Life Sciences, 2013.
-	[[pdf]](http://cs.unc.edu/~jtprice/papers/price_pena_cho_2013.pdf)
+True Price, Francisco I Peña III, Young-Rae Cho. "Survey: Enhancing
+protein complex prediction in PPI networks with GO similarity weighting."
+Interdisciplinary Sciences: Computational Life Sciences, 2013.
+[[pdf]](http://cs.unc.edu/~jtprice/papers/price_pena_cho_2013.pdf)
 
 
 Requirements
